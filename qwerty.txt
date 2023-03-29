@@ -1,6 +1,12 @@
+{F1}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{left}
+{F2}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{down}
+{F3}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{up}
+{F4}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{right}
 [prtscr]>[play]
 [scroll]>[vol-]
 [pause]>[vol+]
+[=]>[`]
+[\]>[=]
 [caps]>[']
 [lctrl]>[tab]
 [lalt]>[hyper]
@@ -18,7 +24,7 @@
 {right}>{speed5}{-lwin}{v}{+lwin}
 [end]>[left]
 [pdown]>[down]
-[up]>[`]
+[up]>[\]
 [down]>[intl-\]
 [kp-lctrl]>[lwin]
 [kp-rwin]>[rctrl]
