@@ -3,7 +3,7 @@
 [pause]>[vol+]
 [caps]>[']
 [lctrl]>[tab]
-[lalt]>[lshift]
+[lalt]>[hyper]
 [rwin]>[lalt]
 [delete]>[lwin]
 [home]>[right]
