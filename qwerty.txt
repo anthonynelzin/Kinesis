@@ -1,7 +1,7 @@
-{F1}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{left}
-{F2}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{down}
-{F3}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{up}
-{F4}>{speed5}{-lwin}{lwin}{+lwin}{-lalt}{lalt}{+lalt}{-lctrl}{lctrl}{+lctrl}{-lshift}{lshift}{+lshift}{right}
+{F1}>{speed5}{-lwin}{-lalt}{-lctrl}{-lshift}{left}{+lshift}{+lctrl}{+lalt}{+lwin}
+{F2}>{speed5}{-lwin}{-lalt}{-lctrl}{-lshift}{down}{+lshift}{+lctrl}{+lalt}{+lwin}
+{F3}>{speed5}{-lwin}{-lalt}{-lctrl}{-lshift}{up}{+lshift}{+lctrl}{+lalt}{+lwin}
+{F4}>{speed5}{-lwin}{-lalt}{-lctrl}{-lshift}{right}{+lshift}{+lctrl}{+lalt}{+lwin}
 [prtscr]>[play]
 [scroll]>[vol-]
 [pause]>[vol+]
