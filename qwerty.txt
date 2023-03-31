@@ -11,7 +11,7 @@
 [lctrl]>[tab]
 [lalt]>[lshift]
 [rwin]>[hyper]
-[rctrl]>[meh]
+[rctrl]>[lwin]
 [delete]>[lwin]
 [home]>[lctrl]
 [`]>[\]
