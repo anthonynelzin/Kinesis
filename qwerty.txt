@@ -18,7 +18,8 @@
 [intl-\]>[down]
 [left]>[up]
 [end]>[lctrl]
-[up]>[intl-\]
+[up]>[null]
+{up}>{speed5}{-lctrl}{-lwin}{space}{+lctrl}{+lwin}
 [down]>[obrack]
 [obrack]>[cbrack]
 [cbrack]>[\]
