@@ -11,9 +11,14 @@
 [rwin]>[hyper]
 [rctrl]>[lwin]
 [delete]>[lwin]
-[home]>[lctrl]
-{`}>{speed5}{-lctrl}{-lwin}{space}{+lctrl}{+lwin}
-[end]>[lalt]
+[home]>[lalt]
+[`]>[left]
+[intl-\]>[down]
+[left]>[up]
+[end]>[lctrl]
+[up]>[null]
+{up}>{-lctrl}{-lwin}{space}{+lctrl}{+lwin}
+[down]>[intl-\]
 [kp-lctrl]>[lwin]
 [kp-rwin]>[rctrl]
 [kp-rctrl]>[rwin]
